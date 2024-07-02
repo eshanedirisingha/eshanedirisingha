@@ -6,34 +6,50 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Cyber Security
-- 👯 I’m looking to collaborate on Cyber Security Projects
-- 🤔 I’m looking for help with Security Solutions...
-- 💬 Ask me about Cyber Security...
-- 📫 How to reach me: [edirisinghaeshan21@gmail.com](edirisinghaeshan21@gmail.com)
-- ⚡ Fun fact: ...
+- 🛡️ I'm passionate about **Cybersecurity** and continuously learning about new techniques and tools.
+- 🌱 I’m currently learning about **ethical hacking**, **network security**, and **cryptography**.
+- 👯 I’m looking to collaborate on open-source cybersecurity projects.
+- 🤔 I’m looking for help with advanced **penetration testing** techniques.
+- 💬 Ask me about **cybersecurity**, **ethical hacking**, or **any tech stuff**.
+- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- ⚡ Fun fact: I love solving puzzles and Capture The Flag (CTF) challenges!
 
 ## 🛠️ My Skills
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Technologies & Frameworks
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=kalilinux)
+![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=metasploit)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)
+![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=nmap)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?&logo=burpsuite)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-000?&logo=owasp)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)
 
-## 📈 GitHub Stats
+## 🏆 GitHub Stats
 
 ![Eshane's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshanedirisingha&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshanedirisingha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔒 Cybersecurity Projects
+
+- [**CTF Challenges**](https://github.com/eshanedirisingha/CTF-Challenges): A collection of Capture The Flag (CTF) challenges I've solved.
+- [**Penetration Testing Scripts**](https://github.com/eshanedirisingha/Penetration-Testing-Scripts): Various scripts and tools for penetration testing.
+- [**Vulnerability Reports**](https://github.com/eshanedirisingha/Vulnerability-Reports): Documented vulnerabilities and their mitigation strategies.
+
+## 📚 Certifications
+
+- 🛡️ **Certified Ethical Hacker (CEH)**
+- 🛡️ **CompTIA Security+**
 
 ## 🔗 Connect with me
 
