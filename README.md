@@ -1,9 +1,5 @@
 # Hi there, I'm Eshane Dirisingha! 👋
 
-![Profile views](https://gpvc.arturio.dev/eshanedirisingha)
-[![GitHub followers](https://img.shields.io/github/followers/eshanedirisingha?label=Follow&style=social)](https://github.com/eshanedirisingha)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/your_twitter_handle)
-
 ## 🚀 About Me
 
 - 🛡️ I'm passionate about **Cybersecurity** and continuously learning about new techniques and tools.
